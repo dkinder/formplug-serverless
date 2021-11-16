@@ -10,7 +10,7 @@
     "test": "NODE_ENV=test mocha './src/**/*.spec.js'"
   },
   "dependencies": {
-    "aws-sdk": "^2.28.0",
+    "aws-sdk": "^2.814.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
